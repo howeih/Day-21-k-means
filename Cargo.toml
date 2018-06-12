@@ -1,0 +1,8 @@
+[package]
+name = "k-means"
+version = "0.1.0"
+authors = ["howard.huang <howard.huang@funp.com>"]
+
+[dependencies]
+rand = "0.5"
+gnuplot = "0.0.25"
